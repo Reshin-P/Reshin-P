@@ -8,17 +8,11 @@ I build **scalable web applications** for startups and businesses — turning co
 
 <br/>
 
-<a href="mailto:reshinsuresh1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reshinsuresh1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/reshin-suresh-02a64b229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Reshin%20P-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Reshin-P" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Reshin--P-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://wa.me/919847574344?text=Hi%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project." target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -53,28 +47,6 @@ I focus on writing **clean, maintainable, scalable code** while delivering intui
 
 ---
 
-## 📌 Featured Client Projects
-
-### ✅ Checkout Champ *(Frontend Developer — React)*
-A super-fast, conversion-optimized checkout and upsell platform for e-commerce brands.  
-**Tech:** React, Redux, JointJS, GrapesJS  
-🔗 https://checkoutchamp.com/
-
----
-
-### ✅ Neosilica *(Full Stack Developer — React, Node.js, PostgreSQL)*
-A web application for designing plant layouts with drag-and-drop capabilities and automatic diagram generation.  
-**Tech:** React, Node.js, GraphQL, JointJS  
-🔗 https://cesneosilica.com/
-
----
-
-### ✅ Brainwave *(Full Stack Developer — AWS Serverless, DynamoDB)*
-An application designed to streamline the candidate referral process and facilitate resume creation.  
-**Tech:** AWS Lambda, API Gateway, Firebase  
-
----
-
 ## 🧠 Tips & Tricks I Follow
 
 - ✅ **Clean Code** → readable code saves debugging time  
@@ -86,12 +58,10 @@ An application designed to streamline the candidate referral process and facilit
 
 ---
 
-## 🤝 Let’s Work Together
+## 🤝 Let’s Connect
 
-📩 Email: **reshinsuresh1@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/reshin-suresh-02a64b229/  
 💻 GitHub: https://github.com/Reshin-P  
-💬 WhatsApp: https://wa.me/919847574344  
 
 ---
 
