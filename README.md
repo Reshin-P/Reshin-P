@@ -11,9 +11,6 @@ I build **scalable web applications** for startups and businesses — turning co
 <a href="https://www.linkedin.com/in/reshin-suresh-02a64b229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Reshin%20P-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Reshin-P" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Reshin--P-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -31,42 +28,38 @@ I focus on writing **clean, maintainable, scalable code** while delivering intui
 
 ---
 
-## 🧩 Technical Skills
+## 🚀 Core Expertise
 
-<div align="center">
-
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools | ☁️ Cloud |
-|------------|-----------|------------|----------|---------|
-| React | Node.js | PostgreSQL | Git | AWS |
-| TypeScript | Express | MongoDB | Docker | Azure |
-| Next.js | REST APIs | Prisma | CI/CD | Vercel |
-| Tailwind CSS | GraphQL | Firebase | Figma | Cloudflare |
-| Redux | WebSockets | Redis | VS Code |  |
-
-</div>
+**Backend:** Django • FastAPI • Node.js • Microservices • WebSockets  
+**Frontend:** React.js • TailwindCSS • Modern UI architectures  
+**AI & Automation:** OpenAI API • RAG Systems • Vector DBs • AI Agents  
+**Data Engineering:** Airflow • Kafka • ETL Pipelines  
+**Cloud & DevOps:** AWS • Docker • CI/CD Pipelines  
+**Databases:** PostgreSQL • Redis • MongoDB  
 
 ---
 
-## 🧠 Tips & Tricks I Follow
+## 🐞 Debugging Strength
 
-- ✅ **Clean Code** → readable code saves debugging time  
-- ✅ **Continuous Learning** → tech evolves fast, stay updated  
-- ✅ **Problem Solving** → break big problems into small tasks  
-- ✅ **Documentation** → good docs make teams move faster  
-- ✅ **Productivity** → automate repetitive work  
-- ✅ **Scalability** → design with future growth in mind  
+- Systematic **RCA** for complex, distributed failures  
+- Performance profiling & **latency reduction**  
+- Observability: logging, tracing & monitoring  
+- Rapid issue isolation + **MTTR improvement**  
+- I turn **unknown unknowns** into solved problems ✅  
 
 ---
 
-## 🤝 Let’s Connect
+## 🌟 What I Build
 
+- AI-powered SaaS applications  
+- Full-stack web platforms with modern UX  
+- Real-time streaming & automation systems  
+- Scalable data and microservice architectures  
+
+---
+
+## 📫 Connect With Me
+
+🔗 Portfolio: **your-portfolio-link**  
 🔗 LinkedIn: https://www.linkedin.com/in/reshin-suresh-02a64b229/  
-💻 GitHub: https://github.com/Reshin-P  
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider following me on GitHub!
-
-</div>
+🔗 GitHub: https://github.com/Reshin-P  
