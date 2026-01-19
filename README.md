@@ -30,12 +30,11 @@ I focus on writing **clean, maintainable, scalable code** while delivering intui
 
 ## 🚀 Core Expertise
 
-**Backend:** Django • FastAPI • Node.js • Microservices • WebSockets  
-**Frontend:** React.js • TailwindCSS • Modern UI architectures  
-**AI & Automation:** OpenAI API • RAG Systems • Vector DBs • AI Agents  
-**Data Engineering:** Airflow • Kafka • ETL Pipelines  
-**Cloud & DevOps:** AWS • Docker • CI/CD Pipelines  
-**Databases:** PostgreSQL • Redis • MongoDB  
+**Frontend:** React • TypeScript • Next.js • Tailwind CSS • Redux  
+**Backend:** Node.js • Express • REST APIs • GraphQL  
+**Databases:** PostgreSQL • MongoDB • Prisma • Firebase  
+**Tools:** Git • Docker • CI/CD • Figma • VS Code  
+**Cloud:** AWS • Azure • Vercel • Cloudflare  
 
 ---
 
