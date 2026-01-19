@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Reshin P**
 
-### 🚀 Full-Stack Developer | Rest API Engineer
+### 🚀 Full-Stack Developer | REST API Engineer
 
 I build **scalable web applications** for startups and businesses — turning complex ideas into **elegant, production-ready software**.
 
@@ -27,101 +27,51 @@ I build **scalable web applications** for startups and businesses — turning co
 
 ## ✨ About Me
 
-Front-end Developer with **4 years of experience** specializing in building **modern, responsive, and high-performance web applications** using React.  
+Front-end Developer with **4 years of experience** specializing in building **modern, responsive, and high-performance web applications using React**.  
 I focus on writing **clean, maintainable, scalable code** while delivering intuitive user interfaces that improve user experience.
 
-✅ 4+ years of professional experience  
 ✅ High-performance web applications  
 ✅ Clean & scalable codebases  
 ✅ UI-focused engineering mindset  
+✅ Strong frontend + backend collaboration  
 
 ---
 
 ## 🧩 Technical Skills
 
-### 🎨 Frontend
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
+<div align="center">
 
-### ⚙️ Backend
-- Node.js
-- Express
-- REST APIs
-- GraphQL
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools | ☁️ Cloud |
+|------------|-----------|------------|----------|---------|
+| React | Node.js | PostgreSQL | Git | AWS |
+| TypeScript | Express | MongoDB | Docker | Azure |
+| Next.js | REST APIs | Prisma | CI/CD | Vercel |
+| Tailwind CSS | GraphQL | Firebase | Figma | Cloudflare |
+| Redux | WebSockets | Redis | VS Code |  |
 
-### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- Prisma
-- Firebase
-
-### 🛠️ Tools
-- Git
-- Docker
-- CI/CD
-- Figma
-- VS Code
-
-### ☁️ Cloud
-- AWS
-- Azure
-- Vercel
-- Cloudflare
+</div>
 
 ---
 
-## 💼 Work Experience
+## 📌 Featured Client Projects
 
-### **CES — Chennai, Tamil Nadu, India**
-**Software Engineer (Full-time)**  
-📅 *Jan 2025 - Present*  
-- Building responsive and user-friendly applications using **React**
-- Focus on performance optimization and clean UI delivery
-
-**Associate Software Technologist**  
-📅 *Jun 2022 - Jan 2025*  
-- Contributed to full-cycle development of multiple client projects  
-- Ensured high-quality delivery and seamless integration  
+### ✅ Checkout Champ *(Frontend Developer — React)*
+A super-fast, conversion-optimized checkout and upsell platform for e-commerce brands.  
+**Tech:** React, Redux, JointJS, GrapesJS  
+🔗 https://checkoutchamp.com/
 
 ---
 
-### **Brototype — Kochi, Kerala, India**
-**Software Intern (Internship)**  
-📅 *Oct 2021 - Jun 2022*  
-- Built multiple real-world projects using **Python, Django, REST APIs, React**
-- Deployed apps on **AWS EC2**, learning production deployment workflows
-- Improved skills in full-stack integration and delivery
+### ✅ Neosilica *(Full Stack Developer — React, Node.js, PostgreSQL)*
+A web application for designing plant layouts with drag-and-drop capabilities and automatic diagram generation.  
+**Tech:** React, Node.js, GraphQL, JointJS  
+🔗 https://cesneosilica.com/
 
 ---
 
-### **Egapow IT Solutions — Kannur, Kerala, India**
-**Desktop & Network Support Engineer (Full-time)**  
-📅 *Jun 2018 - Feb 2020*  
-- Troubleshot hardware/software issues and supported network infrastructure  
-- Provided desktop & system support across environments
-
----
-
-## 🏫 Education
-
-🎓 **Bachelor of Computer Application (BCA)** — Kannur University  
-📅 *Jul 2014 - May 2017*  
-📍 Kannur, Kerala  
-
-🎓 **Plus Two (Computer Science)** — Kerala State Institute of Design  
-📅 *Jun 2012 - Mar 2014*  
-📍 Kannur, Kerala  
-
----
-
-## 🌍 Languages
-
-- **English** — Professional Working Proficiency  
-- **Hindi** — Full Professional Proficiency  
-- **Malayalam** — Native Proficiency  
-- **Tamil** — Professional Working Proficiency  
+### ✅ Brainwave *(Full Stack Developer — AWS Serverless, DynamoDB)*
+An application designed to streamline the candidate referral process and facilitate resume creation.  
+**Tech:** AWS Lambda, API Gateway, Firebase  
 
 ---
 
@@ -136,34 +86,12 @@ I focus on writing **clean, maintainable, scalable code** while delivering intui
 
 ---
 
-## 📌 Featured Client Projects
-
-### ✅ Checkout Champ *(Frontend Developer — React)*
-A super-fast, conversion-optimized checkout and upsell platform for e-commerce brands.  
-**Tech:** React, Redux, JointJS, GrapesJS  
-🔗 https://checkoutchamp.com/
-
----
-
-### ✅ Neosilica *(Full Stack Developer — React, Node.js, PostgreSQL)*
-A plant layout web app with drag-and-drop design + automatic diagram generation.  
-**Tech:** React, Node.js, GraphQL, JointJS  
-🔗 https://cesneosilica.com/
-
----
-
-### ✅ Brainwave *(Full Stack Developer — AWS Serverless, DynamoDB)*
-A platform to streamline candidate referrals and resume creation.  
-**Tech:** AWS Lambda, API Gateway, Firebase  
-
----
-
 ## 🤝 Let’s Work Together
 
 📩 Email: **reshinsuresh1@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/reshin-suresh-02a64b229/  
 💻 GitHub: https://github.com/Reshin-P  
-💬 WhatsApp: https://wa.me/919847574344
+💬 WhatsApp: https://wa.me/919847574344  
 
 ---
 
